@@ -1,10 +1,12 @@
 {
   "resources": [
-    {"id":{"name":"walker_sprite","path":"sprites/walker_sprite/walker_sprite.yy",},"order":1,},
-    {"id":{"name":"player_sprite","path":"sprites/player_sprite/player_sprite.yy",},"order":0,},
-    {"id":{"name":"fireball_sprite","path":"sprites/fireball_sprite/fireball_sprite.yy",},"order":2,},
-    {"id":{"name":"dungeon","path":"tilesets/dungeon/dungeon.yy",},"order":4,},
-    {"id":{"name":"bg_dungeon","path":"sprites/bg_dungeon/bg_dungeon.yy",},"order":5,},
+    {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},"order":0,},
+    {"id":{"name":"walker_sprite","path":"sprites/walker_sprite/walker_sprite.yy",},"order":0,},
+    {"id":{"name":"player_sprite","path":"sprites/player_sprite/player_sprite.yy",},"order":5,},
+    {"id":{"name":"fireball_sprite","path":"sprites/fireball_sprite/fireball_sprite.yy",},"order":1,},
+    {"id":{"name":"aiming_reticle_sprite","path":"sprites/aiming_reticle_sprite/aiming_reticle_sprite.yy",},"order":4,},
+    {"id":{"name":"dungeon","path":"tilesets/dungeon/dungeon.yy",},"order":2,},
+    {"id":{"name":"bg_dungeon","path":"sprites/bg_dungeon/bg_dungeon.yy",},"order":3,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
